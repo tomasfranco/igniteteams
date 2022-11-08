@@ -4,7 +4,7 @@ export function Groups() {
   return (
     <>
     <Container>
-      <Title>Groups</Title>
+      <Title>Testando - Mobile Dev</Title>
     </Container>
     </>
   )
