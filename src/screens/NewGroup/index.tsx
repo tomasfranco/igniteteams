@@ -16,8 +16,6 @@ const navigation = useNavigation();
     navigation.navigate('players', { group });
   }
 
-
-
   return (
     <Container>
       <Header showBackButton />
